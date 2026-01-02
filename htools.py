@@ -58,7 +58,7 @@ class UI:
         print(colored_logo + UI.RESET)
         print(f"{UI.BOLD}{UI.WHITE}──────────────────────────────────────────────────────────{UI.RESET}")
         print(f"{UI.YELLOW} Author   : {UI.WHITE}H-Tool 2026")
-        print(f"{UI.YELLOW} Update   : {UI.GREEN}Version 6.6 - Follow1s.Net{UI.RESET}")
+        print(f"{UI.YELLOW} Update   : {UI.GREEN}Version 4.1 - Follow1s.Net{UI.RESET}")
         print(f"{UI.BOLD}{UI.WHITE}──────────────────────────────────────────────────────────{UI.RESET}\n")
 
     @staticmethod
